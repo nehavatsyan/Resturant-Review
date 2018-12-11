@@ -2,7 +2,7 @@
 
 ## Project for Udacity's [Front-End Web Developer Nanodegree Program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 
-:link: [View Live Project](https://archanaserver.github.io/restaurant-reviews-app-stage-1/)
+:link: [View Live Project]()
 
 #### Project Overview
 
